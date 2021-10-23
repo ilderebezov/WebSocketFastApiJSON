@@ -1,0 +1,2 @@
+# WebSocketFastApiJSON
+test
